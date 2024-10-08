@@ -125,7 +125,7 @@ const Slugs = [
 
 const socialLinks = [
     { link: "https://github.com/amjadraza19", icon: IconBrandGithub },
-    { link: "www.linkedin.com/in/md-amjad-raza-836b7a256", icon: IconBrandLinkedin },
+    { link: "https://www.linkedin.com/in/md-amjad-raza-836b7a256", icon: IconBrandLinkedin },
     { link: "https://www.instagram.com/raza_amjad786/", icon: IconBrandInstagram }, 
     { link: "https://leetcode.com/u/amjad1912/", icon: IconBrandLeetcode }
 ];
