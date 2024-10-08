@@ -2,7 +2,7 @@ import { IconBrandGithub, IconBrandInstagram, IconBrandLeetcode, IconBrandLinked
 
 const Social = () => {
        
-    const socialLinks = [{link:"https://github.com/amjadraza19", icon:IconBrandGithub}, {link:"www.linkedin.com/in/md-amjad-raza-836b7a256", icon:IconBrandLinkedin}, {link:"https://www.instagram.com/raza_amjad786/", icon:IconBrandInstagram}, {link:"https://x.com/MDAMJAD96490293", icon:IconBrandTwitter}, {link:"https://leetcode.com/u/amjad1912/", icon:IconBrandLeetcode},];
+    const socialLinks = [{link:"https://github.com/amjadraza19", icon:IconBrandGithub}, {link:"https://www.linkedin.com/in/md-amjad-raza-836b7a256", icon:IconBrandLinkedin}, {link:"https://www.instagram.com/raza_amjad786/", icon:IconBrandInstagram}, {link:"https://x.com/MDAMJAD96490293", icon:IconBrandTwitter}, {link:"https://leetcode.com/u/amjad1912/", icon:IconBrandLeetcode},];
 
     const sociaIcons=socialLinks.map((socialLink)=>{
         return <a href={`${socialLink.link}`} target="_blank" className="font-mono text-lg  hover:text-primaryColor hover:-translate-x-2 transition transform duration-300 ease-in-out">
