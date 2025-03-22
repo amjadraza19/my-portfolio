@@ -9,6 +9,8 @@ import { IconDownload } from "@tabler/icons-react";
 import ResumeViewer from "./ResumeViewer";
 import { NeonGradientCard } from "./magicui/neon-gradient-card";
 
+ 
+
 const About = () => {
   const [opened, { open, close }] = useDisclosure(false);
   const btn =useMatches({
@@ -41,7 +43,7 @@ const About = () => {
               </div>
               <div className="h-fit flex justify-center items-center bs:mr-10 w-fit">
                   <NeonGradientCard className="w-[325px] h-[325px] lg-mx:w-64 lg-mx:h-64 xsm-mx:w-56 xsm-mx:h-56 items-center justify-center text-center">
-                      <img className="w-full  h-full rounded-2xl " src="Amjad_pic.jpg" alt="profile" />
+                      <img className="w-full  h-full rounded-2xl " src="Amjad_pic.png" alt="profile Picture" />
                   </NeonGradientCard>
               </div>
           </div>

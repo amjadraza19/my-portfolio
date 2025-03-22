@@ -21,7 +21,7 @@ const HomePage =()=>{
   }, [])
     return <div className={` focus-visible:[&_button]:!outline-none min-h-[100dvh] ${loading?"flex":""} items-center overflow-hidden justify-center`}>
       {   loading!==true?<>
-      <Toaster/>
+       <Toaster/>
         <Header />
         <About />
         <Projects />
