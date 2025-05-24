@@ -91,6 +91,13 @@ const SkillInfo = [
 ]
 
 const ExperienceInfo = [
+     {
+        role: "Software Developer",
+        company: "Innovation to Oxygen",
+        date: "May 2025 - Present",
+        desc: "I am working as a Software Developer Trainee on simulation and game-based applications for sectors like education, medical, and defence. My role involves C++ development with a focus on networking, WebSocket communication, and real-time system performance. I contribute to prototyping, testing, and delivering high-quality interactive products.",
+        skills: ["C++", "WebSocket", "Networking"]
+    },
     {
         role: "Backend Developer",
         company: "TechAhead",
@@ -99,30 +106,6 @@ const ExperienceInfo = [
         skills: ["Python", "Django", "MySQL WorkBench"]
     }
 ]
-const Slugs = [
-    "pycharm community",
-    "javascript",
-    "Python",
-    "react",
-    "html5",
-    "css3",
-    "c",
-    "c++",
-    "postman",
-    "mysql",
-    "mysql workbench",
-    "postgresql",
-    "django",
-    "vercel",
-    "docker",
-    "git",
-    "github",
-    "gitlab",
-    "visualstudiocode",
-    "figma",
-    "vite",
-];
-
 const socialLinks = [
     { link: "https://github.com/amjadraza19", icon: IconBrandGithub },
     { link: "https://www.linkedin.com/in/md-amjad-raza-836b7a256", icon: IconBrandLinkedin },
@@ -130,4 +113,4 @@ const socialLinks = [
     { link: "https://leetcode.com/u/amjad1912/", icon: IconBrandLeetcode }
 ];
 
-export { ProjectInfo, SkillInfo, ExperienceInfo, socialLinks, Slugs};
+export { ProjectInfo, SkillInfo, ExperienceInfo, socialLinks};
