@@ -93,7 +93,7 @@ const SkillInfo = [
 const ExperienceInfo = [
      {
         role: "Software Developer",
-        company: "Innovation to Oxygen",
+        company: "Oxygen to Innovation",
         date: "May 2025 - Present",
         desc: "I am working as a Software Developer Trainee on simulation and game-based applications for sectors like education, medical, and defence. My role involves C++ development with a focus on networking, WebSocket communication, and real-time system performance. I contribute to prototyping, testing, and delivering high-quality interactive products.",
         skills: ["C++", "WebSocket", "Networking"]
