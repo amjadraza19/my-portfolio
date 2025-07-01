@@ -78,7 +78,7 @@ const SkillInfo = [
     },
     {
         title: "Backend",
-        skills: ["Python", "Django", "MySQL", "MYSql Workbench"]
+        skills: ["Python", "Django", "MySQL", "MySql Workbench"]
     },
     {
         title: "Languages",
@@ -103,7 +103,7 @@ const ExperienceInfo = [
         company: "TechAhead",
         date: "July 2024 - September 2024",
         desc: "At TeachAhead, I focused on backend development, using Python, Django, and SQL to build and maintain efficient systems. I worked on developing and optimizing backend functionalities, including user authentication, data management, and API integrations. Collaborating closely with the team, I ensured seamless performance and security in all backend processes, contributing to scalable and high-quality software solutions.",
-        skills: ["Python", "Django", "MySQL WorkBench"]
+        skills: ["Python", "Django", "MySql Workbench"]
     }
 ]
 const socialLinks = [
