@@ -95,8 +95,8 @@ const ExperienceInfo = [
         role: "Software Developer",
         company: "Oxygen to Innovation",
         date: "May 2025 - Present",
-        desc: "I am working as a Software Developer Trainee on simulation and game-based applications for sectors like education, medical, and defence. My role involves C++ development with a focus on networking, WebSocket communication, and real-time system performance. I contribute to prototyping, testing, and delivering high-quality interactive products.",
-        skills: ["C++", "WebSocket", "Networking"]
+        desc: "I am working as a Software Developer on simulation based applications. My role involves C++ development with a focus on Sensors(Sonar, EO/IR), DataBase, TestScript and Docementations. also contribute testing and delivering high-quality interactive products.",
+        skills: ["C++", "QT Creator", "Sensors", "Scripting"]
     },
     {
         role: "Backend Developer",
