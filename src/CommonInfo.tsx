@@ -103,7 +103,7 @@ const ExperienceInfo = [
         company: "TechAhead",
         date: "July 2024 - September 2024",
         desc: "At TeachAhead, I focused on backend development, using Python, Django, and SQL to build and maintain efficient systems. I worked on developing and optimizing backend functionalities, including user authentication, data management, and API integrations. Collaborating closely with the team, I ensured seamless performance and security in all backend processes, contributing to scalable and high-quality software solutions.",
-        skills: ["Python", "Django", "MySql Workbench"]
+        skills: ["Python", "Django", "MySql Workbench", "Pycharm"]
     }
 ]
 const socialLinks = [
