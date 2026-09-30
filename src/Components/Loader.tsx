@@ -1,6 +1,4 @@
 import { IconHexagon } from "@tabler/icons-react";
-import IconCloud from "./magicui/icon-cloud";
-
 
 export function Loader() {
   return (
